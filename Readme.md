@@ -266,7 +266,7 @@ Instead of storing multiple values in a single column, bridge tables were create
 
 ### Database Model
 
-![Netflix Database Model](Data_Base model.png)
+![Netflix Database Model](Data_Base_model.png)
 
 This relational structure separates the main content data from countries and categories while using bridge tables to manage many-to-many relationships.
 
