@@ -2,7 +2,6 @@
 
 > **An end-to-end Business Intelligence project exploring Netflix's content catalog through data exploration, data cleaning, relational database modeling, SQL analysis, and Power BI visualization.**
 
-![Netflix Dashboard](analysis_dashboard.png)
 
 ---
 
@@ -267,7 +266,7 @@ Instead of storing multiple values in a single column, bridge tables were create
 
 ### Database Model
 
-![Netflix Database Model](Data_Basemodel.png)
+![Netflix Database Model](Data_Base model.png)
 
 This relational structure separates the main content data from countries and categories while using bridge tables to manage many-to-many relationships.
 
